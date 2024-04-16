@@ -171,6 +171,21 @@ main h5 {
   margin: 0 auto;
 }
 
+.video {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border-radius: 16px;
+  margin-top: 20px;
+}
+
+.spotify-instagram {
+  margin-top: none;
+}
+
+.spotify-instagram h2 {
+  margin-bottom: 30px;
+}
+
 footer {
   color: white;
   background-image: linear-gradient(
@@ -241,6 +256,10 @@ footer li {
 
   header h3 {
     font-size: 12px;
+  }
+
+  main h2 {
+    font-size: 20px;
   }
 
   .grid {
