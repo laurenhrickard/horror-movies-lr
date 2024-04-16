@@ -240,6 +240,7 @@ footer li {
 
 .img-responsive {
   max-width: 100%;
+  filter: contrast(200);
 }
 
 @media (max-width: 960px) {
